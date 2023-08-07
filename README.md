@@ -29,7 +29,7 @@ and using a key acess, printed in the ticket, conform image below </br>
 
 :white_check_mark: First of all, execute the script for create database and tables. (create_table.sql) </br> 
 :white_check_mark: Run the routine, for create procedures in database (create_procedure.sql) </br>
-:white_check_mark: Attached, You'll find an archive compacted, containing two files in html, where this files, can be used to input data on python program (arquivos_html.rar) </br>
+:white_check_mark: Attached, You'll find an archive compacted, containing four files in html, where this files, can be used to input data on python program (arquivos_html.rar) </br>
 :white_check_mark: Run the file (data_extract_from_html.py) in VSCode or other IDE
 
 ![alt text](https://github.com/eltonbrcunha/Data_Extract_Python/blob/main/img/0002.gif)
@@ -72,7 +72,7 @@ atráves do navegador pelo site </br> (http://nfe.sefaz.ba.gov.br/servicos/nfce/
 
 :white_check_mark: 1 - Execução da criação das tabelas (Create_table.sql) </br> 
 :white_check_mark: 2 - Execução da rotina das procedures(create_procedure.sql) </br>
-:white_check_mark: 3 - Em anexo dois arquivos de exemplos compactados, para ser usado no python. (arquivos_html.rar) </br>
+:white_check_mark: 3 - Em anexo quatro arquivos de exemplos compactados, para ser usado no python. (arquivos_html.rar) </br>
 :white_check_mark: 4 - Executar o arquivo (data_extract_from_html.py) no VSCode ou outro compilador desejado.
 
 Execução:
@@ -83,8 +83,6 @@ Execução:
 <h2>Sobre a Tecnologia usada</h2>
 :white_check_mark: <strong>Linguagem de Programação: Python </strong> </br>
 :white_check_mark: <strong>Banco de Dados:  SQL Server </strong> </br>
-
-<h2> EN </h2>
 
 
 
