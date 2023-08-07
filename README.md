@@ -11,7 +11,8 @@ comum, exige um certificado digital para que o consumidor tenha acesso ao arquiv
 atráves do navegador pelo site </br> (http://nfe.sefaz.ba.gov.br/servicos/nfce/Modulos/Geral/NFCEC_consulta_chave_acesso.aspx) com a <strong>chave de acesso.</strong>
 
 <IMAGEM>
-![img_chave_de_acesso](https://github.com/eltonbrcunha/Data_Extract_Python/assets/59777860/c5251ff0-f09a-4159-bc8e-5b0d7968a2c6)
+
+
 
 <h2>Ideias de utilização dos dados </h2>
 :rocket: <strong> Prever comportamento de consumo </strong> </br>
