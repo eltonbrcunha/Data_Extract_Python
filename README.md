@@ -29,9 +29,9 @@ atráves do navegador pelo site </br> (http://nfe.sefaz.ba.gov.br/servicos/nfce/
 :white_check_mark: 3 - Em anexo dois arquivos de exemplos compactados, para ser usado no python. (arquivos_html.rar) </br>
 :white_check_mark: 4 - Executar o arquivo (data_extract_from_html.py) no VSCode ou outro compilador desejado.
 
-Execução: 
+Execução:
 
-
+![alt text](https://github.com/eltonbrcunha/Data_Extract_Python/blob/main/img/0002.gif)
 
 <h2>Observações</h2>
 A abstração do banco de dados se encontra na tabela <strong>Models</strong>, onde as tabelas a serem replicadas para o banco destino se encontram lá, em anexo também está um script 
