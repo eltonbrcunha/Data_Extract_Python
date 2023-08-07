@@ -33,9 +33,6 @@ Execução:
 
 ![alt text](https://github.com/eltonbrcunha/Data_Extract_Python/blob/main/img/0002.gif)
 
-<h2>Observações</h2>
-A abstração do banco de dados se encontra na tabela <strong>Models</strong>, onde as tabelas a serem replicadas para o banco destino se encontram lá, em anexo também está um script 
-adicional para reprodução do banco completo, com <strong>triggers e procedures </strong>
 
 <h2>Sobre a Tecnologia usada</h2>
 :white_check_mark: <strong>Linguagem de Programação: Python </strong> </br>
