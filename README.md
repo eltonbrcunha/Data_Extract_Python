@@ -10,7 +10,8 @@ A utilização de XML seria a opção mais simples e comum, devida a sua estrutu
 comum, exige um certificado digital para que o consumidor tenha acesso ao arquivo integral, com todas as informações, sendo possível acessar as informações
 atráves do navegador pelo site </br> (http://nfe.sefaz.ba.gov.br/servicos/nfce/Modulos/Geral/NFCEC_consulta_chave_acesso.aspx) com a <strong>chave de acesso.</strong>
 
-<IMAGEM>
+
+![alt text](https://github.com/eltonbrcunha/Data_Extract_Python/blob/main/img/img_chave_de_acesso.jpg)
 
 
 
